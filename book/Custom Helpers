@@ -1,0 +1,4 @@
+### How to create a custom helper?
+**Helper** is one of Yii2 components that allows you to reuse some snipets and repeated functionalities over all your project(s) easily.
+
+It is a a static class with static methods. In this document we will see how to create a custom helper that has a method able to generate random strings with specified length.
