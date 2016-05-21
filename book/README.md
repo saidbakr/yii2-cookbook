@@ -72,6 +72,7 @@ View
 - Using blocks
 - Using decorators
 - When to use Widgets and when not to
+- [Making your own Widget and make it available using Composer](http://stackoverflow.com/questions/28132807/how-to-create-a-reusable-widget-in-yii2)
 
 Models
 ------
